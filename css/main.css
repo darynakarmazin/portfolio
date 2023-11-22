@@ -124,6 +124,10 @@ body {
   .card-desription {
     height: 62px;
   }
+
+  .card-tools {
+    height: 42px;
+  }
 }
 
 .card:hover {
@@ -141,7 +145,7 @@ body {
 }
 
 .card-img {
-  margin-bottom: 20px;
+  margin-bottom: 4px;
   width: 500px;
   height: 250px;
 }
