@@ -1,5 +1,4 @@
-# Daryna_Karmazin_PORTFOLIO
-PORTFOLIO.
+# PORTFOLIO.
 
 Daryna Karmazin
 Junior Frontend Developer
