@@ -38,7 +38,7 @@ body {
 }
 
 .container {
-  max-width: 1140px;
+  max-width: 1440px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
@@ -46,24 +46,19 @@ body {
 
 .header {
   position: relative;
-
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-
   width: 100%;
   height: 100vh;
-
   background-color: #556983;
-
   background-image: linear-gradient(
       rgba(30, 71, 118, 0.75),
       rgba(30, 71, 118, 0.75),
       rgba(21, 84, 157, 0.75)
     ),
     url("./../img/header/5P6A2181.jpg");
-
   background-size: cover;
   background-position: center;
 }
@@ -119,12 +114,16 @@ body {
 }
 
 .card {
-  max-width: 540px;
+  max-width: 580px;
   min-height: 434px;
   background-color: #ffffff;
-  border-radius: 6px;
-  box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.35);
+  border-radius: 10px;
+  box-shadow: 0px 10px 40px rgba(126, 155, 189, 0.5);
   transition: transform 0.2s ease-in;
+
+  .card-desription {
+    height: 62px;
+  }
 }
 
 .card:hover {
@@ -133,7 +132,7 @@ body {
 
 .card-link {
   display: block;
-  padding: 20px;
+  padding: 20px 40px;
   transition: color 0.2s ease-in;
 }
 
@@ -143,6 +142,8 @@ body {
 
 .card-img {
   margin-bottom: 20px;
+  width: 500px;
+  height: 250px;
 }
 
 .card-title {
