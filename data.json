@@ -1,0 +1,214 @@
+{
+  "portfolio": [
+    {
+      "title": "Healthy Hub",
+      "link": "https://darynakarmazin.github.io/healthy_hub_project/",
+      "imgSrc": "./img/portfolio/Healthy-Hub.png",
+      "tools": "[React, Redux, RESTful API, Node.js, Express, MongoDb, mongoose, jsonwebtoken]",
+      "description": "Website was designed as team project the FullStack developer course. Developed 'Start Page', 'Signup', 'Signin', 'Forgot password' and ' Recommended food' sections."
+    },
+    {
+      "title": "RentACar",
+      "link": "https://darynakarmazin.github.io/RentACar/",
+      "imgSrc": "./img/portfolio/rentACar.png",
+      "tools": "[React, Redux, HTML, CSS, styled-components, redux-toolkit]",
+      "description": "RentACar is a user-friendly application designed for companies offering car rental services in Ukraine, providing seamless access to a diverse fleet of vehicles."
+    },
+    {
+      "title": "Ape NFT",
+      "link": "https://darynakarmazin.github.io/ape-nft/",
+      "imgSrc": "./img/portfolio/ape-nft.png",
+      "tools": "[react, typescript, css3, css-animations, css-grid, swiper-js, react-hooks, usestate]",
+      "description": "Landing Ape NFT in accordance with the technical task. The layout is adaptive and cross-browser. Frontend test task. Deployed on gh-pages."
+    },
+    {
+      "title": "Ecosolution",
+      "link": "https://darynakarmazin.github.io/ecosolution/",
+      "imgSrc": "./img/portfolio/ecosolution.png",
+      "tools": "[react, javascript, css, validation, styled-components, gh-pages css-variables, lighthouse]",
+      "description": "Landing page Ecosolution. The page adheres to the provided design and technical specifications, featuring a fixed header with smooth scrolling."
+    },
+    {
+      "title": "PowerKit",
+      "link": "https://uapowerkit.com/",
+      "imgSrc": "./img/portfolio/powerkit.png",
+      "tools": "[HTML, CSS, JS, PHP, Doker]",
+      "description": "PowerKit. https://uapowerkit.com Website for volunteering organization. Landing page development with using HTML, CSS, JavaScript."
+    },
+    {
+      "title": "Bookshelf",
+      "link": "https://darynakarmazin.github.io/Bookshelf-comand-project/",
+      "imgSrc": "./img/portfolio/bookshelf.jpg",
+      "tools": "[HTML, CSS, JS, Fetch API, Parcel]",
+      "description": "Website is designed as team project. Developed 'Best Sellers Books', 'All categories' and 'Category' sections, held the position of developer. Code review."
+    },
+    {
+      "title": "ICE CREAM SHOP",
+      "link": "https://darynakarmazin.github.io/different-but-the-same/",
+      "imgSrc": "./img/portfolio/ice-cream-project.jpg",
+      "tools": "[HTML, SCSS, JS, GIT, Parcel]",
+      "description": "Website is designed as a team project the FullStack developer course. Developed a locations section, held the position of developer."
+    },
+    {
+      "title": "Miraplay",
+      "link": "https://darynakarmazin.github.io/miraplay_test_client/",
+      "imgSrc": "./img/portfolio/miraplay.png",
+      "tools": "[React.js, Redux, React Query, React router, HTML, CSS, JS, Node.js, Express, MongoDb, mongoose, jsonwebtoken]",
+      "description": "Full-stack (React/ Node.js) application test task 'miraplay'. With backend and DB part. Developer registation part. Deployed on gh-pages."
+    },
+    {
+      "title": "Movie Search",
+      "link": "https://darynakarmazin.github.io/goit-react-hw-05-movies-v2/",
+      "imgSrc": "./img/portfolio/Movie Search.png",
+      "tools": "[React, React-router, Api-rest, React-hooks]",
+      "description": "Movie Search. Create a basic routing for a movie search and storage application. For the backend, use themoviedb.org API. (React Router)"
+    },
+    {
+      "title": "Web studio",
+      "link": "https://darynakarmazin.github.io/Web-studio-promo-website-EN-/",
+      "imgSrc": "./img/portfolio/web-studio.jpg",
+      "tools": "[HTML, CSS, JS, GIT]",
+      "description": "The individual project is designed as a homework during the FullStack developer course. A website with a responsive layout."
+    },
+    {
+      "title": "Welcome to Phonebook!",
+      "link": "https://darynakarmazin.github.io/goit-react-hw-08-phonebook/login",
+      "imgSrc": "./img/portfolio/phonebook.png",
+      "tools": "[React, Redux, JWT-authentication]",
+      "description": "The individual project is designed as homework during the FullStack developer course. With authentication and filtering functions."
+    },
+    {
+      "title": "TODO list",
+      "link": "https://darynakarmazin.github.io/todo-list/",
+      "imgSrc": "./img/portfolio/todo-list.png",
+      "tools": "[React, Redux, Fetch, Git, CRUD, styled-components, gh-pages, react-icons, jsonplaceholder-api, nanoid, redux-toolkit]",
+      "description": "TODO List App a React application incorporating a TODO list, API interaction, pagination, CRUD operations, custom design, state management through Redux, with responsive design."
+    },
+    {
+      "title": "WEATHER FORECAST",
+      "link": "https://darynakarmazin.github.io/WEATHER-FORECAST/",
+      "imgSrc": "./img/portfolio/weather-widget.jpg",
+      "tools": "[HTML, CSS, JS, Fetch API]",
+      "description": "Weather widget for website using fetch API. Widget with built-in search by city name and temperature, humidity and wind speed indications."
+    },
+    {
+      "title": "BarberShop",
+      "link": "https://darynakarmazin.github.io/landing-page-barbershop-EN-78/",
+      "imgSrc": "./img/portfolio/barbershop.jpg",
+      "tools": "[HTML, CSS, GIT]",
+      "description": "A website with a responsive layout. Build project on github, check for build errors and live page performance."
+    },
+    {
+      "title": "Country search",
+      "link": "https://darynakarmazin.github.io/goit-js-hw-10/",
+      "imgSrc": "./img/portfolio/country-search.jpg",
+      "tools": "[HTML, CSS, JS, Fetch API, Parcel]",
+      "description": "Find information about a country by entering the name. Created dynamic markup. Used Notiflix and debounce library."
+    },
+    {
+      "title": "Pictures gallery search",
+      "link": "https://darynakarmazin.github.io/goit-js-hw-11/",
+      "imgSrc": "./img/portfolio/pictures-gallery-search.jpg",
+      "tools": "[HTML, SCSS, JS, Axios, Parcel]",
+      "description": "Generate pictures gallery by entering the keyword. Created dynamic markup with pagination. Used Notiflix and Simple Lightbox library."
+    },
+    {
+      "title": "Cat house",
+      "link": "https://darynakarmazin.github.io/Cat-house/",
+      "imgSrc": "./img/portfolio/cat-house.jpg",
+      "tools": "[HTML, CSS, JS, GIT]",
+      "description": "Cat house - a website of a shelter for cats. Developed a website landing page, animations. Used simplelightbox, aos, siema js library. Created galleries, scroll animation and slider."
+    },
+    {
+      "title": "Hotel DecenterAds",
+      "link": "https://darynakarmazin.github.io/Hotel-Decenter-Ads/",
+      "imgSrc": "./img/portfolio/hotel-bussines-page.jpg",
+      "tools": "[HTML, CSS, JS, GIT]",
+      "description": "Hotel business card site created using HTML, CSS and JavaScript. Semantic layout."
+    },
+    {
+      "title": "IQ Test",
+      "link": "https://darynakarmazin.github.io/-iq-test/",
+      "imgSrc": "./img/portfolio/iq-test.jpg",
+      "tools": "[JS, HTML, CSS, Fetch API, GIT]",
+      "description": "IQ test with burger menu, quiz, progress bar, spinner, custom radio button and reverse timer."
+    },
+    {
+      "title": "Slider",
+      "link": "https://darynakarmazin.github.io/JavaScript-slider/",
+      "imgSrc": "./img/portfolio/slider-js.jpg",
+      "tools": "[HTML, CSS, JS, GIT]",
+      "description": "Slider (JavaScript). Developed slider for foto gallery with using js. Semantic layout."
+    },
+    {
+      "title": "JavaScript content filter",
+      "link": "https://darynakarmazin.github.io/JavaScript-content-filter/",
+      "imgSrc": "./img/portfolio/javaScript-content-filter.jpg",
+      "tools": "[HTML, CSS, GIT]",
+      "description": "JavaScript content filter [HTML, CSS, JS, GIT]."
+    },
+    {
+      "title": "Gift store",
+      "link": "https://darynakarmazin.github.io/landing-page-freebie-gift-store/",
+      "imgSrc": "./img/portfolio/gift-shop-landing.jpg",
+      "tools": "[HTML, CSS, GIT]",
+      "description": "Gift store website template. Developed a gift shop website landing page, animations. Using animation css libraries."
+    },
+    {
+      "title": "BOSE Landing",
+      "link": "https://64687dde6ec56d7377b27210--harmonious-panda-7e5f0e.netlify.app/",
+      "imgSrc": "./img/portfolio/BOSE-landing.jpg",
+      "tools": "[HTML, CSS, GIT]",
+      "description": "BOSE store website template. Developed burger menu. Mobile and tab version."
+    },
+    {
+      "title": "Todo List App",
+      "link": "https://darynakarmazin.github.io/Todo-List-App/",
+      "imgSrc": "./img/portfolio/to-do-list.jpg",
+      "tools": "[HTML, CSS, JS, GIT]",
+      "description": "Todo List App in HTML CSS JavaScript. Developed with local storage."
+    },
+    {
+      "title": "Web Graphics Editor",
+      "link": "https://darynakarmazin.github.io/Web-editor/",
+      "imgSrc": "./img/portfolio/Editor.jpg",
+      "tools": "[HTML, CSS, JS, GIT]",
+      "description": "Web Graphics Editor in HTML CSS JavaScript."
+    },
+    {
+      "title": "Ukraine Victory Festival",
+      "link": "https://darynakarmazin.github.io/Victory-Festival/",
+      "imgSrc": "./img/portfolio/ukraine-victory-festival.png",
+      "tools": "[HTML, CSS, GIT]",
+      "description": "Landing Ukraine Victory Festival in HTML CSS."
+    },
+    {
+      "title": "InternoS",
+      "link": "https://darynakarmazin.github.io/Landing-Page-InternoS/",
+      "imgSrc": "./img/portfolio/internoS.png",
+      "tools": "[HTML, CSS, GIT]",
+      "description": "Landing page for design stydio InternoS in HTML CSS."
+    },
+    {
+      "title": "Digital Project",
+      "link": "https://darynakarmazin.github.io/digital-project-test/",
+      "imgSrc": "./img/portfolio/digital-project.png",
+      "tools": "[HTML, CSS, JavaScript, Git]",
+      "description": "Landing page for design stydio Digital Project in HTML CSS and JavaScript. Developed as a test task based on markup in Figma."
+    },
+    {
+      "title": "Fashion shop",
+      "link": "https://darynakarmazin.github.io/shopping-website-react/",
+      "imgSrc": "./img/portfolio/fashion-shop.png",
+      "tools": "[React, HTML, CSS, JavaScript, Git]",
+      "description": "Landing page for Fashion shop in React. Developed as a test task based on markup in Figma."
+    },
+    {
+      "title": "UpDate shool",
+      "link": "https://darynakarmazin.github.io/Front-end-sprint/",
+      "imgSrc": "/img/portfolio/update-shool.png",
+      "tools": "[HTML, CSS, Git]",
+      "description": "Landing page for UpDate it shool in HTML CSS. Developed as a learning task based on markup in Figma."
+    }
+  ]
+}
