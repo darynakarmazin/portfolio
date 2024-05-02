@@ -15,6 +15,13 @@
       "description": "RentACar is a user-friendly application designed for companies offering car rental services in Ukraine, providing seamless access to a diverse fleet of vehicles."
     },
     {
+      "title": "CarpTravel",
+      "link": "https://carp-travel-eight.vercel.app/",
+      "imgSrc": "./img/portfolio/og-image.png",
+      "tools": "[typescript, nextjs, swiper, react-scroll, tailwindcss, react-hooks, app-router, react-hook-form, vercel, react-hot-toast]",
+      "description": "Landing CarpTravel in accordance with the technical task. The layout is adaptive and cross-browser. Frontend test task. Deployed on vercel.com"
+    },
+    {
       "title": "Ape NFT",
       "link": "https://darynakarmazin.github.io/ape-nft/",
       "imgSrc": "./img/portfolio/ape-nft.png",
