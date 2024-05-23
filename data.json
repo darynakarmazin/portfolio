@@ -8,6 +8,13 @@
       "description": "Website was designed as team project the FullStack developer course. Developed 'Start Page', 'Signup', 'Signin', 'Forgot password' and ' Recommended food' sections."
     },
     {
+      "title": "Superfood",
+      "link": "https://superfood.vercel.app/",
+      "imgSrc": "./img/portfolio/superfood.jpg",
+      "tools": "[TypeScript, Nextjs, swiper, react-scroll, Tailwindcss, react-hooks, app-router, react-hook-form, vercel]",
+      "description": "Website was designed as team project the FullStack developer course. Developed 'Start Page', 'Signup', 'Signin', 'Forgot password' and ' Recommended food' sections."
+    },
+    {
       "title": "RentACar",
       "link": "https://darynakarmazin.github.io/RentACar/",
       "imgSrc": "./img/portfolio/rentACar.png",
