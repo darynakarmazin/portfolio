@@ -39,5 +39,7 @@ document.addEventListener("DOMContentLoaded", function () {
         portfolioList.appendChild(card);
       });
     })
-    .catch((error) => console.error("Error loading portfolio data:", error));
+    .catch((error) =>
+      console.error("Error loading portfolio projects:", error)
+    );
 });
