@@ -19,7 +19,7 @@
       "link": "https://superfood.vercel.app/",
       "imgSrc": "./img/portfolio/superfood.jpg",
       "tools": "[TypeScript, Nextjs, swiper, react-scroll, Tailwindcss, react-hooks, app-router, react-hook-form, vercel]",
-      "description": "Superfood - the site of a Ukrainian company. It is built with Next.js, Tailwind CSS, TypeScript — a powerful and modern stack that provides scalability, performance, and ease of maintenance."
+      "description": "Superfood - the site of a Ukrainian company. It is built with Next.js, Tailwind CSS, TypeScript — a powerful and modern stack that provides scalability, performance and  maintenance."
     },
     {
       "title": "RentACar",
