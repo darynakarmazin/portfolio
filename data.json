@@ -8,11 +8,18 @@
       "description": "Website was designed as team project the FullStack developer course. Developed 'Start Page', 'Signup', 'Signin', 'Forgot password' and ' Recommended food' sections."
     },
     {
+      "title": "ADRENALIN TOUR",
+      "link": "https://adrenaline-tour.vercel.app/",
+      "imgSrc": "./img/portfolio/adrenalina-tour.webp",
+      "tools": " [Next.js, Tailwind CSS, Typescript, Git, Swiper]",
+      "description": "ADRENALINE TOUR - travel agency multi-page website. Experience the rush as we scale mountain peaks, navigate pristine rivers, and unravel the mysteries of ancient cities."
+    },
+    {
       "title": "Superfood",
       "link": "https://superfood.vercel.app/",
       "imgSrc": "./img/portfolio/superfood.jpg",
       "tools": "[TypeScript, Nextjs, swiper, react-scroll, Tailwindcss, react-hooks, app-router, react-hook-form, vercel]",
-      "description": "Website was designed as team project the FullStack developer course. Developed 'Start Page', 'Signup', 'Signin', 'Forgot password' and ' Recommended food' sections."
+      "description": "Superfood - the site of a Ukrainian company that offers superfoods for your health. It is built with Next.js, Tailwind CSS, TypeScript — a powerful and modern stack that provides scalability, performance, and ease of maintenance."
     },
     {
       "title": "RentACar",
