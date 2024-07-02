@@ -9,7 +9,7 @@ I am a highly motivated and independent candidate looking for an entry-level pos
 
 HTML5 / CSS3
 JavaScript / TypeScript
-React / React hooks
+React / Next.js
 React Native
 Redux / Redux Toolkit
 REST API
