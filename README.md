@@ -10,11 +10,11 @@ I am a highly motivated and independent candidate looking for an entry-level pos
 HTML5 / CSS3
 JavaScript / TypeScript
 React / Next.js
-React Native
 Redux / Redux Toolkit
-REST API
+React Native
 Node.js / Express.js
 MongoDB / Mongoose
+REST API
 Git / Github
 Trello scrum boards
 Test cases Test Rail / TestLink
