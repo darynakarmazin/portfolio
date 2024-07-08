@@ -9,7 +9,7 @@
     },
     {
       "title": "ADRENALIN TOUR",
-      "link": "https://adrenaline-tour.vercel.app/",
+      "link": "https://www.adrenaline-tour.com/",
       "imgSrc": "./img/portfolio/adrenalina-tour.webp",
       "tools": " [Next.js, Tailwind CSS, Typescript, Git, Swiper]",
       "description": "ADRENALINE TOUR - travel agency multi-page website. Experience the rush as we scale mountain peaks, navigate pristine rivers, and unravel the mysteries of ancient cities."
